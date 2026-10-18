@@ -13,7 +13,7 @@ Each skill lives in skills/<skill-name>/SKILL.md.
 
 ## Install
 
-This repository is public. Install a skill with:
+Install a skill with:
 
 ~~~bash
 npx skills@latest add https://github.com/gageminamoto/skills --skill pico8-start
