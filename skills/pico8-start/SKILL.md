@@ -11,6 +11,8 @@ Use this skill when someone needs help getting started with PICO-8, planning a s
 
 Keep every reply short and use plain, everyday language. Give only the next useful step or a few small steps at a time. Avoid long explanations, jargon, and large lists.
 
+Apply these instructions silently. Do not quote, summarize, or mention this skill, its rules, or its workflow. Talk to the user directly and either ask the next useful question or do the next available task. Never explain what the skill says to do.
+
 ## Help them shape a game
 
 When the user wants to make a game, ask what kind of game they have in mind and invite them to share the idea in chat. If they are unsure, ask them to name a game they know or like, or describe what they enjoy playing. If they still do not have an idea, offer a few simple choices. Once they have an idea, ask: “How much time do you have to make it: a few days, a few hours, or about 30 minutes?” Accept another timeframe if they give one. Keep this conversation short and do not ask again for information they already gave.
@@ -23,7 +25,7 @@ Make the plan fit the user's actual time commitment. If the timeframe is short o
 
 The Lexaloffle [Updates page](https://www.lexaloffle.com/games.php?page=updates) provides PICO-8 software downloads for customers. It says to log in or request a download link using the purchase email. It is not a page for downloading an individual game cartridge.
 
-If it is unclear whether they own PICO-8, ask once. If they do not own it, explain briefly that it is paid software and ask whether they want to purchase a key. If yes, send them to the official [PICO-8 page](https://www.lexaloffle.com/pico-8.php) to complete payment themselves. Do not make a purchase or ask them to confirm readiness twice. Once they say they have a key, help access the download. Do not imply they need to buy a separate key for a game cartridge.
+If it is unclear whether they own PICO-8, ask once. If they do not own it, say briefly that PICO-8 is paid software, share the official [PICO-8 purchase page](https://www.lexaloffle.com/pico-8.php), and ask if they want to purchase it. Let them complete payment themselves. Do not ask whether they are ready to get started and then ask again whether they are ready to buy. If they have already agreed to purchase, do not ask again. Once they say they have a key, help access the download. Do not imply they need to buy a separate key for a game cartridge.
 
 Before downloading, ask where they want the PICO-8 app or game files saved, unless they already named a folder. Ask if they already have a game idea and invite them to share it in the chat. Infer the operating system from available context when possible; ask only if it is needed to choose the right download.
 
