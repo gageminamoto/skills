@@ -1,6 +1,6 @@
 # Skills
 
-A collection of agent skills, organized like [Emil Kowalski's skills repo](https://github.com/emilkowalski/skills).
+A collection of Gage's agent skills.
 
 Each skill lives in `skills/<skill-name>/SKILL.md`.
 
